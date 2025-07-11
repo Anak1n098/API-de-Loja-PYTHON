@@ -28,13 +28,13 @@ O intuito era criar um sistema mais completinho, por terminal mesmo, do funciona
 3. Execute conforme fornecido ou edite e depois execute com seus próprios experimentos.
 #
 # English
-#
+
 # Store API
 ### This project is about a store's system, product, user and coupon implementation.
 The idea was to create a more complete system, on terminal, about the process of a store, where it could be a website or dedicated program.
-#
+
 ### Languages Used: PYTHON
-#
+
 ### Disclaimer!
 + Document edited and made by [@Monodrama_098 (Twitter)](https://x.com/Monodrama_098) / [Anak1n098 (Github)](https://github.com/Anak1n098). If used or edited, please credit original creator.
 + Commercial use of this document without proper permission is prohibited.
