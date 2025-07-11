@@ -1,12 +1,12 @@
 # Português
-#
+
 # API de Loja
-#
+
 ### Este projeto é sobre um sistema de loja, cadastro de produtos, usuários e cupons.
 O intuito era criar um sistema mais completinho, por terminal mesmo, do funcionamento de uma loja, onde poderia ser um site ou programa dedicado.
-#
+
 ### Linguagens Usadas: PYTHON
-#
+
 ### Aviso!
 - Este documento é editado e feito por [@Monodrama_098 (Twitter)](https://x.com/Monodrama_098) / [Anak1n098 (Github)](https://github.com/Anak1n098). Se usado ou editado, por favor dê crédito ao criador.
 - Uso comercial deste documento sem permissão prévia é proibido.
