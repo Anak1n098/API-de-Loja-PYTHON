@@ -83,4 +83,3 @@ The idea was to create a more complete system, on terminal, about the process of
 - Guests must register before looking into the catalog ✅
 - Admins can check the sales history ✅
 - After the purchase is done, a receipt is generated ✅
-- Guests
